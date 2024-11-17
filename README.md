@@ -1,6 +1,13 @@
 
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
+## PROGRAM:
+Program to print the contact name and phone number using content providers.
 
+Developed by: Jashwana FaThima S
+
+Registeration Number : 212222040059
+
+Date : 16.09.2024
 
 ## AIM:
 
@@ -25,15 +32,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-```
-/*
-Program to print the contact name and phone number using content providers.
-Developed by: Jashwana FaThima S
-Registeration Number : 212222040059
-*/
-```
 
 ## Mainactivity.java:
 ```
